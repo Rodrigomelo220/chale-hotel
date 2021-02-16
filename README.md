@@ -1,5 +1,5 @@
 # Chalé Hotel
- Criação de um site de hotel (Chalé Hotel), desenvolvido para aprimoramento de CSS3, utilizando o conceito de layout líquido apresentado no curso.
+ Este projeto consiste na criação de um site de hotel (Chalé Hotel), desenvolvido para aprimoramento de CSS3 (Cascading Style Sheets) , utilizando o conceito de layout líquido apresentado no curso.
  
  ***
  
