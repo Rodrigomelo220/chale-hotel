@@ -3,6 +3,15 @@
  
  ***
  
+  ### Tecnologias utilizadas no projeto:
+ 
+ <p align="left">
+ <img src="https://github.com/Rodrigomelo220/chale-hotel/blob/main/.github/html.png" alt="HTML" height="75"/>
+ <img src="https://github.com/Rodrigomelo220/chale-hotel/blob/main/.github/css.png" alt="CSS" height="75"/>
+ </p>
+ 
+ ***
+ 
 ### Abaixo um print do resultado final do projeto:
 ![Chalé Hotel](https://github.com/Rodrigomelo220/chale-hotel/blob/main/.github/chale_hotel.png)
 
